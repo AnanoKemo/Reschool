@@ -1,0 +1,17 @@
+
+.app-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.navigate-button {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  font-size: 1em;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

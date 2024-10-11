@@ -1,0 +1,25 @@
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 10px;
+    flex: 1 1 calc(30% - 20px);
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.card-image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.card-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.card-description {
+    font-size: 0.9em;
+}
